@@ -6,3 +6,4 @@ for i in range(1,11):
     print(' '.join(my_list)) #' '.join to separate the values, in this case by a space
 
 #print(my_list) if I run that one ot presents it as a list separated by commas an ''
+
